@@ -9,5 +9,5 @@ eid="rahul"
 
 
 #delete
-del eid
+#del eid - to delete the identifier
 print(eid)
