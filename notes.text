@@ -1,8 +1,17 @@
 class 2:
 identifier rules:
-1.should contain a-z, A-Z,0-7.
+1.should contain a-z, A-Z,0-9.
 2.should not start with digits 0 -9.
 3.should not contain any special characters.
 4.should not use keywords as identifiers.
 5.identifiers a re case sensitive
 
+-> there are 35 key words
+
+-> python is a dynamic typed  programming language. we can update the code in runtime that means we can change the code anytime and anywhere.
+
+->  to check the type of data we use " type()" function.
+
+-> in python every thing is considered as object.
+
+-> 
