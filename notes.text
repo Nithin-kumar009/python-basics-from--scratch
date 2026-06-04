@@ -1,0 +1,6 @@
+identifier rules:
+1.should contain a-z, A-Z,0-7.
+2.should not start with digits 0 -9.
+3.should not contain any special characters.
+4.should not use keywords as identifiers.
+5.identifiers a re case sensitive
